@@ -258,6 +258,8 @@ width: auto;
     padding: 10px 40px;
     background-color: blue;
     color: white;
+	cursor:pointer;
+
 }
 
 .texto-final{
